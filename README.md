@@ -1,4 +1,3 @@
-## security-suite
 
 ## PHASE 1 - Password Strength Checker
 
