@@ -1,7 +1,6 @@
 ## security-suite
 
-## PHASE 1
-## Password Strength Checker
+## PHASE 1 - Password Strength Checker
 
 This tool checks the strength of a password based on:
 - Length
