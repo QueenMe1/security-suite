@@ -5,3 +5,8 @@ This tool checks the strength of a password based on:
 - Length
 - Use of uppercase, lowercase, numbers, and symbols
 - Comparison against a list of common passwords
+
+
+⚠️ Disclaimer
+
+    This project is for educational purposes only.
