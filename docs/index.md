@@ -1,5 +1,6 @@
-
+----------------------
  HOW I BUILT A PASSWORD STRENGTH CHECKER FROM SCRATCH : PROTECTING YOUR DATA STARTS HERE
+ ----------------------
 
 ## 📢 Introduction
 Passwords are the first line of defense in cybersecurity, but weak passwords are still one of the biggest threat today. In this project, I built a Password Strength Checker using python to help people undestand how secure their passwords really are.
@@ -14,9 +15,9 @@ This tool check for:
 
     It gives instant feedback: Weak, Medium, or Strong.
 
-    ![Weak Password Demo](image.png)
-    ![Medium Password Demo](image-1.png)
-    ![Strong Password Demo](image-2.png)
+    ![Weak Password Demo](docs/demoImage/image.png)
+    ![Medium Password Demo](docs/demoImage/image-1.png)
+    ![Strong Password Demo](docs/demoImage/image-2.png)
 
 
 ## 👩🏽‍💻 How I Built It
