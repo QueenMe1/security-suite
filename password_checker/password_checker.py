@@ -20,7 +20,7 @@ def password_strength_checker(password):
 
     if score <= 2:
         return "Weak";
-    elif score == 3 or score ==4 :
+    elif score == 3 or score == 4:
         return "Medium";
     else:
         return "Strong";
