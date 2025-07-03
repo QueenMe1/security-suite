@@ -14,7 +14,7 @@ def password_strength_checker(password):
     if len(password) >= 8:
         score += 1;
 
-    with open("Top_common_passwords.txt") as file:
+    with open('data/Top_common_passwords.txt') as file:
         if password in file.readline():
             return "Weak (Common Password, Change it!!)";
 
