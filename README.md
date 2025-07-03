@@ -9,4 +9,4 @@ This tool checks the strength of a password based on:
 
 ⚠️ Disclaimer
 
-    This project is for educational purposes only.
+This project is for educational purposes only.
