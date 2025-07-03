@@ -1,5 +1,5 @@
 
-# HOW I BUILT A PASSWORD STRENGTH CHECKER FROM SCRATCH : PROTECTING YOUR DATA STARTS HERE
+HOW I BUILT A PASSWORD STRENGTH CHECKER FROM SCRATCH : PROTECTING YOUR DATA STARTS HERE
 
 ## Introduction
 Passwords are the first line of defense in cybersecurity, but weak passwords are still one of the biggest threat today. In this project, I built a Password Strength Checker using python to help people undestand how secure their passwords really are.
@@ -32,4 +32,8 @@ I used the Python's regex library to validate passwords and compared inputs to a
     - Expanding this into a full security suite
 
 # Check It Out
-You can view the project here: 
+You can view the project here: [Github Repo] (https://github.com/QueenMe1/security-suite)
+
+--------------
+
+*This project is for educational purposes only.*
